@@ -22,7 +22,6 @@ body{
   backdrop-filter:blur(15px);
   width: 80%;
   max-width: 500px;
-  min-height:500px;
   height: fit-content;
   border-radius:10px;
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.4);
